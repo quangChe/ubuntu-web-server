@@ -16,7 +16,7 @@ The server can be accessed using the following information listed below. However
 
 The web server was installed using the following software:
 
-### Server software
+### Server Software
 * Apache2 v2.4.18 (Ubuntu)
 * mod_wsgi for Apache2
 * PostgreSQL v9.5
